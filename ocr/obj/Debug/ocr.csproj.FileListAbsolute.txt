@@ -1,0 +1,10 @@
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\bin\Debug\ocr.exe.config
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\bin\Debug\ocr.exe
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\bin\Debug\ocr.pdb
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.csproj.AssemblyReference.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.Form1.resources
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.Properties.Resources.resources
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.csproj.GenerateResource.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.csproj.CoreCompileInputs.cache
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.exe
+C:\Users\e-kck\OneDrive\Belgeler\GitHub\ocr\ocr\obj\Debug\ocr.pdb
